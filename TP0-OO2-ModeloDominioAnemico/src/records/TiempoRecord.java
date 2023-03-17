@@ -1,4 +1,4 @@
-package Records;
+package records;
 
 import java.util.Calendar;
 

@@ -11,11 +11,11 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import ClaseAnemica.TiempoAnemico;
-import ClaseNOAnemica.TiempoNOAnemico;
-import Records.TiempoRecord;
+import claseAnemica.TiempoAnemico;
+import claseNOAnemica.TiempoNOAnemico;
+import records.TiempoRecord;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package ClaseNOAnemica;
+package claseNOAnemica;
 
 import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
